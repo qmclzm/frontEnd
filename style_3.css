@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+p {
+    display: inline-block;
+    margin: 0 auto;
+}
+.header {
+    background-color: rgb(160, 160, 160);
+    width: 100%;
+    height: 50px;
+}
+.tit {
+    margin: 0 auto;
+    text-align: 50px;
+    color: white;
+}
+.resume {
+    margin: auto; 
+    width: 50%; 
+    height: 100%;
+}
+h2 {
+    background-color: rgb(200, 200, 200);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 100px;
+}
+.content {
+    border: solid 1px rgb(230, 230, 230);
+}
+.small-tit {
+    display: inline-block;
+}
+
+
+

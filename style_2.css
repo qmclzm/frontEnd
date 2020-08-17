@@ -1,0 +1,25 @@
+p {
+    margin-top: 0px;
+}
+.left {
+    float: left;
+    background-color: rgb(113, 113, 255);
+    width: 25%;
+    height: 800px;
+}
+.right {
+    float: right;
+    width: 70%;
+}
+.tit {
+    text-align: center;
+    color: blanchedalmond;
+}
+.resume {
+    margin: auto; 
+    width: 50%; 
+    height: 100%;
+}
+.small-tit {
+    display: block;
+}
